@@ -165,6 +165,9 @@ redirects = {
     "access-security/specifications":
         "../appdevguide/AccessSecurity.html",
 
+    "appdevguide/AppDevGuide":
+        "gettingStarted.html",
+
     #"appdevguide/*": "appdevguide/*",
 }
 html_logo = "images/EPICS_green_logo.svg"
