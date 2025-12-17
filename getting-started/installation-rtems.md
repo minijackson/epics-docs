@@ -1,8 +1,5 @@
 # Installation on RTEMS 6 (Release 6.1)
 
-```{tags} developer, advanced
-```
-
 ## RTEMS 6 (Release 6.1) Information
 
 RTEMS 6.1 was released on 22 January 2025. New in this release is the support of different network stacks. The familiar BSD stack (‘legacy’ stack) is still supported. This was used in the previous EPICS customisations for RTEMS 4.9 and 4.10. This BSD stack is a bit outdated and does not support NFSv4, for example, which is now mandatory for many organisations for security reasons. In order to be able to support these requirements in the future, the RTEMS developers have decided to use the libbsd stack from FreeBSD for new releases. With RTEMS 6.1, however, both stacks are supported for the time being. Unfortunately, the new stack does not support all the boards previously used in our environment. The missing Nexus device drivers are mostly missing.

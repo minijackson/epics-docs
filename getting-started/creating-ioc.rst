@@ -1,8 +1,6 @@
 Creating an IOC Application
 ===========================
 
-.. tags:: user, developer
-
 This example shows how to create an IOC Application
 with an IOC using StreamDevice to talk to devices, e.g., via ethernet.
 

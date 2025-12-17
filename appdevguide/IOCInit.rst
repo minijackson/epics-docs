@@ -1,8 +1,6 @@
 IOC Initialization
 ------------------
 
-.. tags:: developer
-
 .. contents:: Table of Contents
  :depth: 3
 

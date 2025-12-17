@@ -1,8 +1,6 @@
 Getting Started
 ===============
 
-.. tags:: beginner, user, developer
-
 Introduction
 ------------
 
