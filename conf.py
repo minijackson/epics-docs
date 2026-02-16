@@ -20,7 +20,7 @@ import os
 # -- Project information -----------------------------------------------------
 
 project = 'EPICS Documentation'
-copyright = '2019, EPICS Controls.'
+copyright = '2019, EPICS Controls'
 author = 'EPICS'
 
 
