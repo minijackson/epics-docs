@@ -1,9 +1,7 @@
 EPICS Dependencies on CentOS 8
 ==============================
 
-.. tags:: beginner
 .. contents:: Contents
-
 
 Overview
 --------

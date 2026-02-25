@@ -1,8 +1,6 @@
 How to find which IOC provides a PV
 ===================================
 
-.. tags:: beginner, user, developer
-
 This process is for IOCs running on Linux servers.
 
 Find Host and TCP port

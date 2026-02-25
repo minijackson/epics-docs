@@ -35,7 +35,6 @@ extensions = [
     "sphinx_reredirects",
     # Markdown parser
     'myst_parser',
-    'sphinx_tags',
     'sphinx_design',
 ]
 
@@ -166,24 +165,12 @@ redirects = {
     "software/HowToWorkWithTheEpicsRepository":
         "../contributing/HowToWorkWithTheEpicsRepository.html",
 
+    "access-security/specifications":
+        "../appdevguide/AccessSecurity.html",
+
+    "appdevguide/AppDevGuide":
+        "gettingStarted.html",
+
     #"appdevguide/*": "appdevguide/*",
 }
 html_logo = "images/EPICS_green_logo.svg"
-
-# Tags configuration
-
-tags_create_tags = True
-
-tags_create_badges = True
-
-tags_overview_title = "All tags"
-
-tags_extension = ["rst", "md"]
-
-tags_page_title = "Tags"
-
-tags_page_header = "Pages with this tag"
-
-tags_badge_colors = {
-    "*": "primary",
-}

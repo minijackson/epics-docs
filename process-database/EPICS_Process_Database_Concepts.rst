@@ -1,9 +1,6 @@
 EPICS Process Database Concepts
 ===============================
 
-.. tags:: beginner, user, developer
-
-
 .. contents:: Table of Contents
  :depth: 3
 

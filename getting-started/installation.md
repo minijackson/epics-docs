@@ -1,8 +1,5 @@
 # Installation Overview
 
-:::{tags} beginner
-:::
-
 An EPICS installation typically consists of multiple software modules.
 
 EPICS Base will always be one of them.

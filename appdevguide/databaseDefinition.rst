@@ -1,8 +1,6 @@
 Database Definition
 ===================
 
-.. tags:: developer, advanced
-
 Overview
 --------
 

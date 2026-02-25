@@ -14,7 +14,6 @@ sphinx-copybutton = "^0.5.2"
 sphinx-rtd-theme = "^3.0.2"
 sphinx-autobuild = "^2025.8.25"
 sphinx-reredirects = "^1.0.0"
-sphinx-tags = "^0.4"
 sphinx-design = "^0.6.1"
 
 [build-system]

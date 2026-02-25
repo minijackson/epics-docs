@@ -77,42 +77,6 @@ For example:
 
   [Diátaxis documentation]: https://diataxis.fr/
 
-### Tagging the document
-
-To suggest the intended audience, we use a tag mechanism
-using [sphinx-tags] extension.
-
-There are `beginner`, `user`, `developer`, `advanced` and `all` roles.
-
--   `beginner` - articles for those who don't know EPICS
-    and want to familiarize with it.
-    That should be mostly articles about installation and basic concepts.
-
--   `user` - articles for those who use EPICS during their work
-    for example as operators,  mostly with client applications.
-
--   `developer` - articles for those who develop IOCs, extensions or drivers
-
--   `advanced` - articles for those who want to understand advanced topics
-    including build system, specifications and details of protocols.
-
-To tag the article,
-add a line specifying labels under the title in the source file.
-Tags are supported for `.rst` and `.md`.
-
-Example for `.rst`:
-
-```
-.. tag::`beginner, user, developer`
-```
-
-Example for `.md`:
-
-    ```{tags} beginner, developer
-    ```
-
-  [sphinx-tags]: https://sphinx-tags.readthedocs.io/
-
 #### Forking the repository
 
 Once logged in and viewing the page on GitHub you wish to edit,

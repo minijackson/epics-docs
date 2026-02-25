@@ -1,8 +1,6 @@
 PV Access repositories overview
 ===============================
 
-.. tags:: developer, advanced
-
 There are (at the time of writing) two generations of pvAccess C++ implementations available:
 
 PVXS

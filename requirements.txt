@@ -1,5 +1,4 @@
 sphinx_copybutton==0.5.2
-sphinx-tags==0.4
 sphinx-design==0.6.1
 myst-parser==4.0.1
 sphinx-rtd-theme==3.0.2

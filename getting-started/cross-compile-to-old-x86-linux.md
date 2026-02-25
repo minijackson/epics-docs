@@ -1,8 +1,5 @@
 # Cross compiling to an old x86 Linux system
 
-```{tags} developer, advanced
-```
-
 ## Introduction
 
 I was given the task of developing a IOC

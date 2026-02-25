@@ -1,9 +1,6 @@
 # How to Make Channel Access Reach Multiple Soft IOCs on a Linux Host
 
 
-```{tags} developer, advanced
-```
-
 ## UDP Name Resolution: Broadcast vs. Unicast
 
 Running multiple IOCs on one host has an annoying side effect:

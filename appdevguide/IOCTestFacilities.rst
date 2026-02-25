@@ -1,8 +1,6 @@
 IOC Test Facilities
 ===================
 
-.. tags:: user, developer
-
 .. contents:: Table of Contents
  :depth: 3
 

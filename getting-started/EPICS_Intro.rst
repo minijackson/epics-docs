@@ -1,8 +1,6 @@
 Getting started with EPICS
 ==========================
 
-.. tags:: beginner
-
 System components
 -----------------
 
